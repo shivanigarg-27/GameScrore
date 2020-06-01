@@ -1,0 +1,11 @@
+
+I have created development structured using React js as a SSR build. However, time not permit me to do further designing stuff.
+
+Tools :
+        Next Js - As a SSR Plugin
+        Sass support (However use inline jsx)
+        React Bootstrap
+        Parent-child component
+        Local states
+        axios api
+        
